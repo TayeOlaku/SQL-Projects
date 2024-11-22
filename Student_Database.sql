@@ -54,7 +54,7 @@ FROM Student_DB;
 SELECT COUNT(DISTINCT STUDENT_ID) AS Unique_Students 
 FROM Student_DB;
 
-Filtering Data
+--Filtering Data
 --4.    Find students who are majoring in "Nursing & Midwivfery."
 SELECT *
 FROM Student_DB
